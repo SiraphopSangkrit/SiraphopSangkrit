@@ -21,7 +21,7 @@
 ###
 
 
-<p align="left">💻 I'm currently work at <a href="checkraka.com">One Digital Network</a><br>✨ I'm fast learner and fully passion <br>✏️  i'm currently learn ReactJs and NodeJs</p>
+<p align="left">💻 I'm currently work at <a href="https://www.checkraka.com">One Digital Network</a><br>✨ I'm fast learner and fully passion <br>✏️  i'm currently learn ReactJs and NodeJs</p>
 
 ###
 
