@@ -26,9 +26,6 @@
 ###
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siraphopsangkrit&layout=compact)
-
-
 ###
 <h2 align="left">I code with</h2>
 
